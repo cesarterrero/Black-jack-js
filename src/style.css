@@ -1,0 +1,57 @@
+html,body{
+    margin: 0px;
+    background-color: #2F4F30;
+    color: white;
+};
+
+
+
+
+
+
+.cabezera-mesa-de-juego h1{
+    color: #fff;
+    font-family:poppins;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+.area-jugador h2{
+    color: #fff;
+    font-family:poppins;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.carta{
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+    
+}
+
+.cabezera-jugadores{
+    display: flex;
+
+    flex-direction: row;
+    gap: 20px;
+    color: #fff;
+    font-family:poppins;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+
+.titulo{
+    display: flex;
+justify-content:  center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+};
